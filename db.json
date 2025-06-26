@@ -1,12 +1,74 @@
 {
-  "apiEndpoint" : [
+  "slots": [
     {
-      "name" : "UMA",
-      "skills" : ["javaScript", "node.js", "react.js"]
+      "id": "1",
+      "time": "Monday 9AM",
+      "booked": false
     },
     {
-      "name":"RADHA",
-      "skills" : ["Adobe Illustrator", "Adobe After effects"]
+      "id": "2",
+      "time": "Monday 3PM",
+      "booked": false
+    },
+    {
+      "id": "3",
+      "time": "Tuesday 10AM",
+      "booked": false
+    },
+    {
+      "id": "4",
+      "time": "Tuesday 5PM",
+      "booked": false
+    },
+    {
+      "id": "5",
+      "time": "Wednesday 8AM",
+      "booked": true
+    },
+    {
+      "id": "6",
+      "time": "Wednesday 2PM",
+      "booked": false
+    },
+    {
+      "id": "7",
+      "time": "Thursday 11AM",
+      "booked": false
+    },
+    {
+      "id": "8",
+      "time": "Thursday 4PM",
+      "booked": false
+    },
+    {
+      "id": "9",
+      "time": "Friday 9AM",
+      "booked": false
+    },
+    {
+      "id": "10",
+      "time": "Friday 1PM",
+      "booked": false
+    },
+    {
+      "id": "11",
+      "time": "Saturday 10AM",
+      "booked": true
+    },
+    {
+      "id": "12",
+      "time": "Saturday 3PM",
+      "booked": false
+    },
+    {
+      "id": "13",
+      "time": "Sunday 11AM",
+      "booked": false
+    },
+    {
+      "id": "14",
+      "time": "Sunday 6PM",
+      "booked": false
     }
   ]
 }
